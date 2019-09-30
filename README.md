@@ -28,8 +28,8 @@ Please make sure to include instructions on how to run the project and install a
 - Locate file bowling.py and run the following command into a bash/powershell terminal in order to run the program
 
 - Once the console app has been launched two options are displayed:
-    -> 1. To press Y/y to play a game of 10 pin bowling
-    -> 2. To press any other character to exit the console app
+    - 1. To press Y/y to play a game of 10 pin bowling
+    - 2. To press any other character to exit the console app
 
 ## Comments about the solution delivered
 
